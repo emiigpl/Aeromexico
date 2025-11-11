@@ -1,1 +1,2 @@
 # Aeromexico
+Este proyecto tiene como proposito llevar un control de datos sobre la aereolinea aeromexico para poder ofrecer un mejor servicio tanto a los clientes como a los empleados,ofrece una mayor organizacion y puede ayudar a la empresa a mejorar en sus registros por lo que es muy eficiente y util porque permite actualizar,eliminar y agregar registros en las tablas y eso lo hace muy funcional.-
